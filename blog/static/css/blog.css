@@ -1,10 +1,6 @@
-h1 a{
-  color: #d00000;
-    font-family: 'Lobster';
-}
-
-h2 b{
+h1 a, h2 a{
   color: #364966;
+    font-family: 'Lobster';
 }
 
 h2 p{
