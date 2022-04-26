@@ -2,6 +2,10 @@ h1 a, h2 a{
     color: #d00000;
     font-family: 'Sofia';
 }
+
+h2 b{
+  font-family: 'Lobster';
+}
 body {
     padding-left: 15px;
 }
