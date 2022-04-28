@@ -55,6 +55,7 @@ h4 {
 
 .post > .date,
 .post > .actions {
+    color: #40E0D0;
     float: right;
 }
 
