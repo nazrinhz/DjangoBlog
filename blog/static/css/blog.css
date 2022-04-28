@@ -49,13 +49,13 @@ h4 {
 
 .post h2 a,
 .post h2 a:visited {
-    color: #b78460;
+    color: #042e27;
     font-family: 'Times New Roman';
 }
 
 .post > .date,
 .post > .actions {
-    color: #042e27;
+    color: #b78460;
     float: right;
 }
 
